@@ -1,0 +1,408 @@
+# Vim 8.2 generó este archivo "viminfo".
+# Puede editarlo, ¡sólo si tiene cuidado!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' cuando se escribió este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Último SustituciónPatrón de búsqueda:
+~MSle0~&buster
+
+# Última cadena de sustitución:
+$stable
+
+# Historia de Línea de órdenes (de lo más nuevo a lo más antiguo):
+:wq
+|2,0,1760383584,,"wq"
+:!wq
+|2,0,1760369755,,"!wq"
+:q
+|2,0,1760368622,,"q"
+:wq!
+|2,0,1722088871,,"wq!"
+:set nonu
+|2,0,1722088688,,"set nonu"
+:q!
+|2,0,1722086235,,"q!"
+:x
+|2,0,1598454735,,"x"
+:%s/buster/stable/g
+|2,0,1586781976,,"%s/buster/stable/g"
+:Q!
+|2,0,1586781617,,"Q!"
+:set number
+|2,0,1586781557,,"set number"
+
+# Historia de Cadena de búsqueda (de lo más nuevo a lo más antiguo):
+? buster
+|2,1,1586781976,,"buster"
+
+# Historia de Expresión (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Historia de Debug Line (de lo más nuevo a lo más antiguo):
+
+# Registros:
+""1	LINE	0
+	reboot
+|3,1,1,1,1,0,1722088449,"reboot"
+"2	LINE	0
+	apt-get update
+|3,0,2,1,1,0,1722088449,"apt-get update"
+"3	LINE	0
+	vi /etc/apt/sources.list
+|3,0,3,1,1,0,1722088449,"vi /etc/apt/sources.list"
+"4	LINE	0
+	apt-get update
+|3,0,4,1,1,0,1722088449,"apt-get update"
+"5	LINE	0
+	cat /etc/debian_version 
+|3,0,5,1,1,0,1722088449,"cat /etc/debian_version "
+"6	LINE	0
+	apt-get dist-upgrade 
+|3,0,6,1,1,0,1722088449,"apt-get dist-upgrade "
+"7	LINE	0
+	apt-get update
+|3,0,7,1,1,0,1722088449,"apt-get update"
+"8	LINE	0
+	vi /etc/apt/sources.list
+|3,0,8,1,1,0,1722088449,"vi /etc/apt/sources.list"
+"9	LINE	0
+	cat /etc/debian_version 
+|3,0,9,1,1,0,1722088448,"cat /etc/debian_version "
+"q	CHAR	0
+	�kb�kb!
+|3,0,26,0,1,0,1760383467,"�kb�kb!"
+"-	CHAR	0
+	r
+|3,0,36,0,1,0,1722087912,"r"
+
+# Marcas en el archivo:
+'0  1  7  /etc/hostname
+|4,48,1,7,1760383584,"/etc/hostname"
+'1  8  0  /etc/apt/sources.list
+|4,49,8,0,1760369768,"/etc/apt/sources.list"
+'2  1  0  /etc/apt/sources.list
+|4,50,1,0,1760368622,"/etc/apt/sources.list"
+'3  1  0  /etc/apt/sources.list
+|4,51,1,0,1760368622,"/etc/apt/sources.list"
+'4  1  0  ~/.bash_history
+|4,52,1,0,1722089107,"~/.bash_history"
+'5  7  91  /etc/apt/sources.list
+|4,53,7,91,1722088871,"/etc/apt/sources.list"
+'6  7  91  /etc/apt/sources.list
+|4,54,7,91,1722088871,"/etc/apt/sources.list"
+'7  3  19  /etc/apt/sources.list
+|4,55,3,19,1722088871,"/etc/apt/sources.list"
+'8  3  19  /etc/apt/sources.list
+|4,56,3,19,1722088871,"/etc/apt/sources.list"
+'9  7  93  /etc/apt/sources.list
+|4,57,7,93,1722088693,"/etc/apt/sources.list"
+
+# Lista de saltos (el más reciente va primero):
+-'  1  7  /etc/hostname
+|4,39,1,7,1760383584,"/etc/hostname"
+-'  8  0  /etc/apt/sources.list
+|4,39,8,0,1760369768,"/etc/apt/sources.list"
+-'  8  0  /etc/apt/sources.list
+|4,39,8,0,1760369768,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1760369095,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1760369095,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1760368622,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1760368622,"/etc/apt/sources.list"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722089107,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722089107,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722089107,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722089107,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722089107,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722089107,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722089107,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722089107,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722089107,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722089107,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722089107,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722089107,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722089107,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722089107,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722089107,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722089107,"~/.bash_history"
+-'  7  91  /etc/apt/sources.list
+|4,39,7,91,1722088871,"/etc/apt/sources.list"
+-'  3  19  /etc/apt/sources.list
+|4,39,3,19,1722088871,"/etc/apt/sources.list"
+-'  3  19  /etc/apt/sources.list
+|4,39,3,19,1722088871,"/etc/apt/sources.list"
+-'  3  19  /etc/apt/sources.list
+|4,39,3,19,1722088871,"/etc/apt/sources.list"
+-'  3  19  /etc/apt/sources.list
+|4,39,3,19,1722088871,"/etc/apt/sources.list"
+-'  3  19  /etc/apt/sources.list
+|4,39,3,19,1722088871,"/etc/apt/sources.list"
+-'  7  91  /etc/apt/sources.list
+|4,39,7,91,1722088871,"/etc/apt/sources.list"
+-'  3  19  /etc/apt/sources.list
+|4,39,3,19,1722088871,"/etc/apt/sources.list"
+-'  3  19  /etc/apt/sources.list
+|4,39,3,19,1722088871,"/etc/apt/sources.list"
+-'  3  19  /etc/apt/sources.list
+|4,39,3,19,1722088871,"/etc/apt/sources.list"
+-'  3  19  /etc/apt/sources.list
+|4,39,3,19,1722088871,"/etc/apt/sources.list"
+-'  3  19  /etc/apt/sources.list
+|4,39,3,19,1722088871,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1722088851,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1722088851,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1722088851,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1722088851,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1722088851,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1722088851,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1722088851,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1722088851,"/etc/apt/sources.list"
+-'  3  21  /etc/apt/sources.list
+|4,39,3,21,1722088693,"/etc/apt/sources.list"
+-'  3  21  /etc/apt/sources.list
+|4,39,3,21,1722088693,"/etc/apt/sources.list"
+-'  3  21  /etc/apt/sources.list
+|4,39,3,21,1722088693,"/etc/apt/sources.list"
+-'  3  21  /etc/apt/sources.list
+|4,39,3,21,1722088693,"/etc/apt/sources.list"
+-'  3  21  /etc/apt/sources.list
+|4,39,3,21,1722088693,"/etc/apt/sources.list"
+-'  3  21  /etc/apt/sources.list
+|4,39,3,21,1722088693,"/etc/apt/sources.list"
+-'  3  21  /etc/apt/sources.list
+|4,39,3,21,1722088693,"/etc/apt/sources.list"
+-'  3  21  /etc/apt/sources.list
+|4,39,3,21,1722088693,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1722088629,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1722088629,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1722088629,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1722088629,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1722088629,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1722088629,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1722088629,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1722088629,"/etc/apt/sources.list"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1722088581,"~/.bash_history"
+
+# Historia de las marcas en los archivos (de la más reciente a la más antigua):
+
+> /etc/hostname
+	*	1760383552	0
+	"	1	7
+	^	1	8
+	.	1	8
+	+	1	8
+
+> /etc/apt/sources.list
+	*	1760369764	0
+	"	8	0
+	^	8	75
+	.	8	74
+	+	1	11
+	+	7	11
+	+	7	83
+	+	1	41
+	+	7	42
+	+	7	72
+	+	1	21
+	+	7	21
+	+	7	93
+	+	1	14
+	+	7	14
+	+	7	86
+	+	1	10
+	+	7	11
+	+	7	83
+	+	2	67
+	+	8	0
+	+	4	82
+	+	5	85
+	+	7	72
+	+	1	32
+	+	8	74
+
+> ~/.bash_history
+	*	1722089106	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> /etc/hash
+	*	1722088355	0
+	"	1	0
+	^	1	40
+	.	1	39
+	+	1	39
+
+> /etc/has
+	*	1722086213	0
+	"	1	0
+
+> /etc/hasg
+	*	1598454724	0
+	"	1	0
+
+> /etc/network/interfaces
+	*	1598454049	0
+	"	13	0
+	.	14	0
+	+	14	0
+
+> /tmp/crontab.byo59W/crontab
+	*	1591018206	0
+	"	24	48
+	^	24	49
+	.	24	48
+	+	24	48
+
+> /tmp/crontab.RIdmcB/crontab
+	*	1591017172	0
+	"	19	40
+	.	19	0
+	+	19	0
+
+> /etc/fstab
+	*	1588598167	0
+	"	14	0
+	^	14	0
+	.	13	37
+	+	14	0
+	+	13	37
+
+> /etc/group
+	*	1587985101	0
+	"	21	15
+	^	21	16
+	.	21	15
+	+	21	15
+
+> ~/hola.sh
+	*	1587387080	0
+	"	5	0
+	^	5	0
+	.	4	8
+	+	3	18
+	+	4	8
