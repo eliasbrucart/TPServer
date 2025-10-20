@@ -90,3 +90,73 @@ nano /etc/ssh/sshd_config
 systemctl restart ssh
 systemctl status ssh
 poweroff
+poweroff
+ls
+mkdir test_tar_gz
+ls
+tar -cvvzf test_tar_gz.tar.gz test_tar_gz
+ls
+split -b 1M test_tar_gz.tar.gz "test_tar_gz.tar.gz.part-"
+ls
+cd /
+ls
+ls
+tar -cvvzf var.tar.gz /var
+ls
+split -b 100M var.tar.gz "var.tar.gz-part-"
+ls
+ls
+rm var.tar.gz-part-aa
+rm var.tar.gz-part-ab
+ls
+split -b 50M var.tar.gz "var.tar.gz-part-"
+ls
+cp var.tar.gz-part-aa
+cp var.tar.gz-part-aa /root
+ls
+cd /root
+ls
+tart -zxvf var.tar.gz-part-aa
+tar -zxvf var.tar.gz-part-aa
+ls
+cd vart
+cd var
+ls
+cd ..
+ls
+rm test_tar_gz
+rm -r test_tar_gz
+ls
+rm test_tar_gz.tar.gz
+ls
+rm test_tar_gz.tar.gz.part-aa
+ls
+rm -r var
+ls
+tar -zxvf var.tar.gz-part-aa
+exit
+apt-get install apache2
+apt-get install libapache2-mod-php8.2
+apt install libapache2-mod-php8.2
+apt-get install php8.2-cli php8.2-common php8.2-mysql php8.2-zip php8.2-gd php8.2-mbstring php8.2-curl php8.2-xml php8.2-bcmath
+apt install libapache2-mod-php8.2
+apt-get update
+apt-get upgrade
+apt-get upgrade
+ls
+apt list --installed php\*
+apt-cache search php8.2
+apt install libapache2-mod-php8.2
+nano /etc/apt/sources.list
+reboot
+apt install php8.2 php8.2-common libapache2-mod-php8.2 php8.2-cli -y
+sudo apt install lsb-release apt-transport-https ca-certificates wget -y
+wget -O /etc/apt/trusted.gpg.d/php.gpg https://packages.sury.org/php/apt.gpg
+echo "deb https://packages.sury.org/php/ $(lsb_release -sc) main" | sudo tee /etc/apt/sources.list.d/php.list
+sudo apt update
+sudo apt install php8.2 php8.2-common libapache2-mod-php8.2 php8.2-cli -y
+systemctl restart apache2
+systemctl status apache2
+nano
+nano /etc/apt/sources.list
+reboot
