@@ -1,7 +1,7 @@
 ## Integrantes Grupo 7
 
-## Elias Brucart
-## Lucas Damian Campano
-## Alexis Mendez
-## Iñaki Vega Galun
-## Santiago Villa Hannois
+<p>Elias Brucart</p>
+<p>Lucas Damian Campano</p>
+<p>Alexis Mendez</p>
+<p>Iñaki Vega Galun</p>
+<p>Santiago Villa Hannois</p>
