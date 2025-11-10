@@ -51,6 +51,5 @@ bluetooth:!::
 avahi-autoipd:!::
 ssh:!::
 systemd-coredump:!!::
-alumnos:!::alumno3
-alumno3:!::
+alumnos:!::
 ssl-cert:!::

@@ -24,3 +24,4 @@ messagebus:x:104:110::/nonexistent:/usr/sbin/nologin
 avahi-autoipd:x:105:112:Avahi autoip daemon,,,:/var/lib/avahi-autoipd:/usr/sbin/nologin
 systemd-coredump:x:999:999:systemd Core Dumper:/:/usr/sbin/nologin
 sshd:x:106:65534::/run/sshd:/usr/sbin/nologin
+mysql:x:107:115::/nonexistent:/bin/false

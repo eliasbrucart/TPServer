@@ -160,3 +160,53 @@ systemctl status apache2
 nano
 nano /etc/apt/sources.list
 reboot
+ls
+cd /
+ls
+rm var.tar.gz
+ls
+rm var.tar.gz-part-aa
+rm var.tar.gz-part-ab
+rm var.tar.gz-part-ac
+ls
+tar czvf var.tar.gz var
+ls
+split -b 50M var.tar.gz var.tar.gz-part-
+ls
+nano /etc/hostname
+apt-get install mariadb-server
+systemctl status mariadb
+systemctl enabler mariadb
+systemctl enable mariadb
+systemctl status mariadb
+systemctl enable apache2
+mariadb -u root -p
+ls
+cd /root
+ls
+mariadb -u root -p
+mysql -u root -p db < /root/db.sql
+cd /
+ls
+rm var.tar.gz
+ls
+cd var
+cd ..
+rm var.tar.gz-part-aa
+rm var.tar.gz-part-ab
+rm var.tar.gz-part-ac
+rm var.tar.gz-part-ad
+ls
+tar -cvf var.tar.gz var
+ls
+split -b 50 var.tar.gz var.tar.gz-part-
+split -b 50M var.tar.gz var.tar.gz-part-
+ls
+rm var.tar.gz-part-*
+ls
+ls
+ls
+cd /
+ls
+exit
+poweroff

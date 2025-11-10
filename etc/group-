@@ -51,6 +51,5 @@ bluetooth:x:111:
 avahi-autoipd:x:112:
 ssh:x:113:
 systemd-coredump:x:999:
-alumnos:x:1002:alumno3
-alumno3:x:1003:
+alumnos:x:1002:
 ssl-cert:x:114:
