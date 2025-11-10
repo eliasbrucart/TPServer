@@ -210,3 +210,29 @@ cd /
 ls
 exit
 poweroff
+ifup enp0s3
+ls
+rm var.tar.gz-part-aa
+ls
+tar du -sh var
+du -sh var
+tar -cvzf var.tar.gz var
+du -sh var.tar.gz
+cd /
+ls
+du -sh var
+tar -cvzf var.tar.gz var
+ls
+du -sh var.tar.gz
+split -b 50M var.tar.gz var.tar.gz.part-
+ls
+du -sh var.tar.gz.part-aa
+du -sh var.tar.gz.part-ab
+du -sh var.tar.gz.part-ac
+du -sh var.tar.gz.part-ad
+nano /etc/network/interfaces
+ifdown
+ifdown enp0s3
+ls
+ip a
+reboot
