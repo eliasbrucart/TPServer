@@ -236,3 +236,61 @@ ifdown enp0s3
 ls
 ip a
 reboot
+ip a
+cd /
+ls
+rm var.tar.gz
+ls
+rm var.tar.gz.part-aa
+rm var.tar.gz.part-ab
+rm var.tar.gz.part-ac
+rm var.tar.gz.part-ad
+ls
+tar -cvzf var.tar.gz var
+du -sh var.tar.gz
+aplit -b 50M var.tar.gz var.tar.gz.part-
+split -b 50M var.tar.gz var.tar.gz.part-
+ls
+poweroff
+poweroff
+lsblk
+fdisk /dev/sdc
+lsblk
+cd /
+mkdir www_dir
+mkdir backup_dir
+ls
+mkfs -t ext4 /dev/sdc1
+mkfs -t ext4 /dev/sdc2
+lsblk
+car /etc/fstab
+cat /etc/fstab
+cd /root
+cp /etc/fstab .
+nano /etc/gstab
+nano /etc/fstab
+cd /
+ls
+ls -ltr
+ls
+reboot
+df -h
+cd /
+ls
+rm -rf www_data
+mv wwww_data www_dir
+nano /etc/fstab
+reboot
+cd /
+ls
+cd www_dir
+ls
+cd ..
+cd www_data
+ls
+cd ..
+ls
+rm -rf www_data
+ls
+nano /etc/fstab
+reboot

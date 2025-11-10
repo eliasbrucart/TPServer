@@ -11,4 +11,5 @@ UUID=cd2cb4ca-39bd-4522-919c-e4ceb81b5ae8 /               ext4    errors=remount
 UUID=e550cf9e-dc94-442c-b9c4-9c12f05024b3 none            swap    sw              0       0
 /dev/sr0        /media/cdrom0   udf,iso9660 user,noauto     0       0
 /dev/sdb1 	/home 		ext4 	rw,auto		0	0
-
+/dev/sdc1	/www_dir	ext4	defaults	0	2
+/dev/sdc2	/backup_dir	ext4	defaults	0	2
