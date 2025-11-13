@@ -1,91 +1,3 @@
- poweroff
- poweroff
-poweroff
-ip a
-ping www.google.com
-apt-get update
-apt-get upgrade
-sudo su
-apt-get update
-poweroff
-nano /etc/apt/sources.list
-apt-get install nano
-vi
-clear
-vi /etc/apt/sources.list
-clear
-ls
-ls -ltr
-apt-get install ssh
-apt-get install ssh
-apt update
-apt-get install openssh-server
-ping www.google.com
-poweroff
-apt install nano
-apt install nano
-apt update
-apt-cache search nano
-vi /etc/apt/sources.list
-reboot
-apt-get update
-apt-get upgrade
-apt-get install nano
-nano
-clear
-apt-get install openssh-server
-systemctl status ssh
-clear
-systemctl status ssh.d
-systemctl status sshd
-clear
-vi /etc/hostname
-reboot
-ip a
-systemctl status ssh
-iptables 'f
-
-
-
-iptables -f
-iptables -f
-iptables -h
-iptables -L
-ip a
-poweroff
-exit
-ls
-ls -la
-cd .ssh
-apt-get install nano
-ls
-clear
-poweroff
-ls -la
-cd .ssh
-ls
-cat id_rsa.pub >> authorized_keys
-ls
-cd ..
-chmod 700 ~/.ssh
-ls
-cd .ssh
-rm -rf authorized_keys
-ls
-touch authorized_keys
-ls
-cat id_rsa.pub >> authorized_keys
-ls
-grep authorized_keys
-nano authorized_keys
-chmod 600 authorized_keys
-exit
-exit
-systemctl status ssh
-systemctl enable ssh
-ls
-clear
-systemctl status ssh
 nano /etc/ssh/sshd_config
 systemctl restart ssh
 systemctl status ssh
@@ -293,4 +205,296 @@ ls
 rm -rf www_data
 ls
 nano /etc/fstab
+reboot
+df -h
+cd /
+ls
+rm var.tar.gz
+rm var.tar.gz.part-aa
+rm var.tar.gz.part-ab
+rm var.tar.gz.part-ac
+rm var.tar.gz.part-ad
+ls
+tar -cvzf var.tar.gz var
+ls
+split -b 50M var.tar.gz var.tar.gz.part-
+ls
+poweroff
+poweroff
+poweroff
+cd /opt
+ls
+mkdir scripts
+ls
+cd scripts
+ls
+nano backup_full.sh
+ls
+nano backup_full.sh
+cat backup_full.sh 
+nano backup_full.sh
+chmod +x backup_full.sh
+ls
+cat backup_full.sh 
+./backup_full.sh -help
+nano backup_full.sh 
+./backup_full.sh -help
+./backup_full.sh
+nano backup_full.sh 
+./backup_full.sh -help
+./backup_full.sh
+./backup_full.sh -help
+nano backup_full.sh 
+./backup_full.sh -help
+ls
+./backup_full.sh "-help"
+cat backup_full.sh 
+./backup_full.sh --help
+nano backup_full.sh 
+nano backup_full.sh 
+nano backup_full.sh
+./backup_full.sh -help
+nano backup_full.sh
+exit
+poweroff
+cd /opt/scripts
+ls
+nano backup_full.sh
+./backup_full.sh -origen /root/var -destino /backup_dir
+nano backup_full.sh
+nano backup_full.sh
+nano backup_full.sh
+nano backup_full.sh
+fg
+./backup_full.sh -origen /root/var -destino /backup_dir
+cd /backup_dir
+ls
+rm var_bkp_20251111.tar.gz 
+cd /opt/scripts
+ls
+./backup_full.sh -origen /root/var -destino /backup_dir
+cd /backup_dir
+ls
+ls
+rm bk
+rm var_bkp_20251111.tar.gz 
+ls
+cd /opt/script
+ls
+cd /opt/scripts
+ls
+./backup_full.sh -origen /root/var -destino /backup_dir
+cd /backup_dir
+ls
+du -sh
+du -sh var_bkp_20251111.tar.gz 
+cd /opt/scripts
+ls
+nano backup_full.sh
+./backup_full.sh -origen /root/var -destino /backup_dir
+nano backup_full.sh
+cd /backup_dir
+ls
+rm var_bkp_20251111.tar.gz 
+ls
+cd /opt/scripts
+./backup_full.sh -origen /root/var -destino /backup_dir
+nano backup_full.sh
+./backup_full.sh -origen /root/var -destino /backup_dir
+nano backup_full
+nano backup_full.sh
+./backup_full.sh -origen /root/var -destino /backup_dir
+./backup_full.sh -origen /root/var -destino /backup_dir
+nano backup_full.sh
+./backup_full.sh -origen /root/var -destino /backup_dir
+nano backup_full.sh
+./backup_full.sh -origen /root/var -destino /backup_dir
+cd /backup_dir
+ls
+rm var_bkp_20251111.tar.gz 
+ls
+cd /opt/scripts
+ls
+./backup_full.sh -origen /root/var -destino /backup_dir
+./backup_full.sh -origen /root/var -destino /backup_dir
+./backup_full.sh -origen /root/var -destino /backup_dir
+nano backup_dir
+fg
+nano backup_full.sh
+./backup_full.sh -origen /root/var -destino /backup_dir
+nano backup_full.sh
+./backup_full.sh -origen /root/var -destino /backup_dir
+./backup_full.sh -origen /root/var -destino /backup_dir
+nano backup_full.sh
+./backup_full.sh -origen /root/var -destino /backup_dir
+cd /root
+ls
+cd /var
+ls
+cd ..
+rm var.tar.gz
+ls
+ls
+cd /root/var
+ls
+cd ..
+ls
+rm var.tar.gz
+ls
+cd /opt/scripts
+ls
+nano backup_full.sh
+./backup_full.sh -origen /root/var -destino /backup_dir
+./backup_full.sh -origen /root/var/logs -destino /backup_dir
+nano backup_full.sh
+./backup_full.sh -origen /root/var/logs -destino /backup_dir
+nano backup_full.sh
+./backup_full.sh -origen /root/var/logs -destino /backup_dir
+nano backup_full.sh
+./backup_full.sh -origen /root/var -destino /backup_dir
+./backup_full.sh -origen /root/var/ -destino /backup_dir
+cd /backup_dir
+;s
+ls
+reboot
+cd /opt/scripts
+ls
+nano backup_full.sh
+cat backup_full.sh 
+nano backup_full.sh
+./backup_full.sh -origen a -destino b
+nano backup_full.sh
+./backup_full.sh -origen a -destino b
+nano backup_full.sh
+./backup_full.sh -origen a -destino b
+nano backup_full.sh
+./backup_full.sh -origen a -destino b
+nano backup_full.sh
+./backup_full.sh -origen a -destino b
+nano backup_full.sh
+./backup_full.sh -origen a -destino b
+cd /root
+ls
+mkdir test
+ls
+cd /opt/scripts
+ls
+cd /root
+ls
+cd var
+ls
+cd ..
+cd /opt/scripts
+ls
+./backup_full.sh -origen /root/var -destino /root/test
+nano backup
+nano backup_full.sh
+./backup_full.sh -origen /root/var -destino /root/test
+nano backup_full.sh
+./backup_full.sh -help
+nano backup_full.sh
+./backup_full.sh -origen /root/var -destino /root/test
+nano backup_full.sh
+./backup_full.sh -origen /root/var -destino /root/test
+cd /root
+ls
+cd test
+ls
+cd /opt/scripts
+ls
+ls
+nano backup_full.sh 
+ls
+cp backup_full.sh backup_full-1.sh
+ls
+nano backup_full
+nano backup_full.sh
+./backup_full.sh -origen /root/var -destino /root/test
+cd /root
+ls
+cd /opt/scripts
+ls
+ls
+./backup_full.sh -origen /var -destino /backup_dir
+./backup_full.sh -origen /var/logs -destino /backup_dir
+./backup_full.sh -origen /var/logs -destino /dev/sdc1/backup_dir
+nano backup_full.sh
+./backup_full.sh -origen /var/logs -destino /backup_dir
+./backup_full.sh -origen /var -destino /backup_dir
+./backup_full.sh -origen /root/var -destino /backup_dir
+nano backup_full.sh
+./backup_full.sh -origen /root/var -destino /backup_dir
+nano backup_full.sh
+./backup_full.sh -origen /root/var -destino /backup_dir
+cd /backup_dir
+ls
+cd /opt/scripts
+ls
+nano backup_full.sh
+cd /backup_dir
+ls
+rm logs_bkp_20251111.tar.gz 
+rm var_bkp_20251111.tar.gz 
+ls
+cd /opt/scripts
+ls
+./backup_full.sh -origen /root/var -destino /backup_dir
+cd /backup_dir
+ls
+cd /root
+ls
+poweroff
+poweroff
+cd /opt/scripts
+ls
+ls
+nano backup_full.shj
+nano backup_full.sh
+./backup_full.sh -origen /root/var -destino /backup_dir
+cp /root/var /opt/scripts
+cp -r /root/var /opt/scripts
+ls
+./backup_full.sh -origen var -destino /backup_dir
+./backup_full.sh -origen /opt/scripts/var -destino /backup_dir
+./backup_full.sh -origen /root/var -destino /backup_dir
+nano backup_full.sh
+./backup_full.sh -origen /root/var -destino /backup_dir
+ls -ld /backup_dir
+whoami
+chown root /backup_dir
+./backup_full.sh -origen /root -destino /backup_dir
+cd /backup_dir
+ls
+ls
+cd /
+ls
+ls
+cd backup_dir
+ls
+cd /opt/scripts
+ls
+rm -C
+ls
+rm "-C"
+ls
+nano backup_full.sh
+
+nano backup_full.sh
+./backup_full.sh -origen /root/var -destino /backup_dir
+cd /backup_dir
+ls
+rm var_bkp_20251113.tar.gz 
+ls
+cd /opt/scripts
+ls
+./backup_full.sh -origen /root/var -destino /backup_dir
+cd /backup_dir
+ls
+cd /opt/scripts
+ls
+nano backup_full.sh
+systemctl status cron
+nano /etc/ctrontab
+nano /etc/crontab
+nano /etc/crontab
 reboot
