@@ -1,10 +1,11 @@
 ## Grupo 7 Computacion aplicada
 
 <p align="center">
-    <img src="logo.png" width="100%" height="100%">
+    <img src="logo.png" width="50%" height="50%">
 </p>
 <br>
 <br>
+## Diagrama Topologico
 <p align="center">
     <img src="diagrama_topologico.drawio.png">
 </p>
