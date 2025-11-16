@@ -1,4 +1,15 @@
-## Integrantes Grupo 7
+## Grupo 7 Computacion aplicada
+
+<p align="center">
+    <img src="logo.png" width="100%" height="100%">
+</p>
+<br>
+<br>
+<p align="center">
+    <img src="diagrama_topologico.drawio.png">
+</p>
+
+## Integrantes
 
 <p>Elias Brucart</p>
 <p>Lucas Damian Campano</p>
