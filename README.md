@@ -3,9 +3,10 @@
 <p align="center">
     <img src="logo.png" width="50%" height="50%">
 </p>
+
 <br>
-<br>
-## Diagrama Topologico
+
+## Diagrama topologico
 <p align="center">
     <img src="diagrama_topologico.drawio.png">
 </p>
