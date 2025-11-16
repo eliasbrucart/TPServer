@@ -1,9 +1,0 @@
-19776e560df3f7ee749b4e9730a1e1c2  lib/crda/regulatory.bin
-6ee0199d0eeba7153dfa09844bae1e9b  lib/firmware/regulatory.db-debian
-6ee0199d0eeba7153dfa09844bae1e9b  lib/firmware/regulatory.db-upstream
-229cb08a577f823194dcf60c87d34af2  lib/firmware/regulatory.db.p7s-debian
-0a30f40fc1a30a00e6d714f8d94ba7b4  lib/firmware/regulatory.db.p7s-upstream
-1b7e96633ba6d04c81bb26f851518061  usr/share/doc/wireless-regdb/README.Debian
-8617315308fb56b57d4d189f701af884  usr/share/doc/wireless-regdb/changelog.Debian.gz
-970a2e15713037a37a301e343210bad4  usr/share/doc/wireless-regdb/copyright
-abb91d959affc5a8d9dbbf62c5e16fe5  usr/share/man/man5/regulatory.bin.5.gz
